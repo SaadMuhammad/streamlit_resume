@@ -3,7 +3,7 @@
 ## Overview
 This project is a Streamlit web application that provides a visual representation of your skills, work experience, projects, and additional information about you. It showcases your proficiency in various skills, your professional background, and more.
 
-![Project GIF](link_to_your_gif.gif)
+<img src="GIF/resume_ss.gif?raw=true"/>
 
 ## Table of Contents
 - [How to Run the Application](#how-to-run-the-application)
